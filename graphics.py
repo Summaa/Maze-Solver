@@ -40,3 +40,4 @@ class Line:
             self.point1.x, self.point1.y, self.point2.x, self.point2.y, fill=fill_color, width=2
             )
         canvas.pack(fill=BOTH, expand=1)
+        
